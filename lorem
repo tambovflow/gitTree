@@ -1,2 +1,7 @@
 master commit1
+#<<<<<<< HEAD
 branch1 commit1
+#=======
+#branch1
+#branch2
+#>>>>>>> branch2
